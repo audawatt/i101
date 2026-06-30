@@ -1,0 +1,36 @@
+.main{
+    color:blueviolet;
+}
+
+table, th, td{
+   border-width: thin;
+   border-color: black;
+   border-style: solid;
+   border-collapse: collapse; 
+}
+th{
+    background-color: burlywood;
+    color:aliceblue
+}
+.tableRed{
+    background-color: chartreuse;
+    color:chocolate;
+}
+p{
+    color:brown;
+}
+a:link {
+    color:darkmagenta
+}
+a:visited {
+    color:chartreuse
+}
+a:hover {
+    color:coral
+}
+a:active {
+    color:darkgreen
+}
+.pUnderline {
+    text-decoration: underline;
+}

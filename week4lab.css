@@ -1,0 +1,34 @@
+.backgrounds{
+    background-image: url('https://cleanmytribe.com/wp-content/uploads/2020/07/west-lafayette-on-the-map.jpg');
+    height: 450px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pad{
+    padding: 10px;
+}
+
+.credit{
+    font-size:x-small;
+}
+
+.gold{
+    color:#C69214;
+}
+
+.small{
+    font-size: x-small;
+}
+
+.large{
+    font-size:20px;
+}
+
+.b{
+    border-color:#C69214;
+    border-style:solid;
+    border-width: 1px;
+}
+

@@ -1,0 +1,55 @@
+.backgrounds{
+    background-image: url('images/samplegates.jpg');
+    height: 290px;
+    width: 450px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pSample{
+    color:white;
+    font-weight: bold;
+}
+
+.iuplace{
+    padding: 7px;
+    margin: 1in 2in 4.5in 3in;
+}
+
+.div1{
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    color:blue;
+    padding-right: 6px;
+    padding-left: 6px;
+}
+
+.div2{
+    border-style:dotted;
+    border-radius: 25px;
+    border-color:black;
+    color:red;
+    padding-left:6px;
+    padding-right:6px;
+}
+
+.B{
+    font-size: x-large;
+}
+
+.b{
+    color:blueviolet;
+}
+
+.fontfamily{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fontweight{
+    font-weight: bold;
+}
+
+.fontstyle{
+    font-style: italic;
+}

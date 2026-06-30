@@ -1,0 +1,39 @@
+.main{
+    color:black
+}
+
+table,th,td{
+    border-width:thin;
+    border-color:black;
+    border-style:solid;
+    border-collapse:collapse;
+}
+
+th{
+    background-color:cadetblue;
+    color:azure
+}
+
+a:link{
+    color:darkblue
+}
+
+a:visited{
+    color:purple
+}
+
+a:hover{
+    color:green
+}
+
+a:active{
+    color:red
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.p{
+   font-size: xx-small; 
+}
