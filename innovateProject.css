@@ -1,0 +1,206 @@
+.menuli{
+    list-style-type:none;
+    float: left;
+    color: black;
+    display:inline;
+}
+
+.menuli a{
+    display:block;
+    color: black;
+    padding:20px;
+    text-align:center;
+    background-color:#FFE7E7;
+    text-decoration: none;
+    border-right: #000000;
+    border-width: 0px;
+    border-right-width: 2px;
+    border-style: solid;
+}
+
+.menuli a:hover{
+    background-color: #efb7b7;
+    color: black;
+}
+
+.menuul{
+    background-color:#FFE7E7;
+    left:0;
+    width: 100%;
+    margin:0;
+    padding: 0;
+    overflow:hidden;
+    display: inline-flex;
+    color: black;
+    border-color: #000000;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.title{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.bottomLine{
+    background-color: #FFE7E7;
+    border: #000000;
+    border-width: 2px;
+    border-style: solid;
+    display: block;
+    left:0;
+    width: 100%;
+    margin:0;
+    padding: 0;
+    bottom: 0;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.lonk a:link{
+    color:#ffafaf;   
+}
+
+.lonk a:visited{
+    color:#ffafaf;   
+}
+
+.lonk a:hover{
+    color: #efb7b7;
+}
+
+.button{
+    display: block;
+    background-color: #FFE7E7;
+    float: left;
+    text-decoration: none;
+    margin: 5px;
+    padding: 35px;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+
+.innovatorBlock{
+    display: block;
+    background-color:  #efb7b7;
+}
+
+
+.processBlocks{
+    display: block;
+    margin-top: 2%;
+    background-color: #c99797;
+    padding-left: 1%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 4%;
+}
+.processBlocks2{
+    background-color: #b67676;
+}
+.processBlocks:hover{
+    background-color: #ffafaf;
+    font-size: larger;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.processTitle{
+    text-align: left;
+    text-decoration: underline;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+
+
+.horizontal-scroll-container {
+    /* overflow-x: scroll; 
+    overflow-y: hidden; */
+    overflow: auto;
+    white-space: nowrap;
+    
+    /* This enables horizontal scrolling only */ 
+
+}
+.horizontal-scroll-container .horzScrollItem{
+    display: inline-block;
+    padding-right: 150px;
+    text-align: center;
+}
+
+
+
+.processtext{
+    font-size:x-small;
+}
+
+
+
+.innovatorImgsTop{
+    height: auto;
+    width: 50%;
+}
+
+
+/* below this is all the imgs for innovator, i know its long but its the only way to 
+get them to all work for diff imgs */
+/* .button:hover{
+    background-color: #e8a1a1;
+} */
+.innovatorImg0{
+    display: block;
+    height: 600px;
+    width: 50%;
+    position: relative;
+    margin-left: 20%;
+    margin-top: 2%;
+    opacity: 0.7;
+}
+
+.innovatorImg {
+    display: none;
+    width: 1075px;
+    height: 610px;
+    position: relative;
+}
+.innovatorImgClick{
+    display: block;
+}
+.innovatorButtonClicked{
+    background-color: #e8a1a1;
+    display: block;
+    float: left;
+    text-decoration: none;
+    margin: 5px;
+    padding: 35px;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+
+
+.innovatorTextSize{
+    /* text-align: center; */
+    font-size: larger;
+}
+
+
+
+
+
+
+
+.teamPhoto{
+    height: 80%;
+    width: 65%;
+}
+.bootstrap{
+    margin-top: 300px;
+}
+
+
+
